@@ -42,20 +42,14 @@ Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia 
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ShunTr-dev&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="400">
+
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ShunTr-dev/)
+    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunTr-dev&layout=compact&theme=radical" alt="Lenguajes más usados" width="400">
 </p>
 
 ---
 
-### 📝 Últimos Artículos del Blog (Opcional)
-
-<!-- Puedes enlazar tu blog si tienes uno, o si no, eliminar esta sección -->
-
-- [Cómo implementar autenticación con OAuth2](https://mi-blog.com/oauth2)
-- [Introducción a Docker y su uso en proyectos de desarrollo](https://mi-blog.com/docker-intro)
-- [Guía para principiantes sobre Kubernetes](https://mi-blog.com/kubernetes-beginner)
-
----
 
 ### 🎮 Aficiones y más sobre mí
 
@@ -64,16 +58,6 @@ Cuando no estoy programando, me puedes encontrar:
 - 📚 Leyendo libros de ciencia ficción y tecnología.
 - 🌍 Explorando nuevas tecnologías y tendencias del sector IT.
   
----
-
-<p align="center">
-  ¡Gracias por visitar mi perfil!
-</p>
-
----
-
-Este archivo `README.md` puede ser personalizado agregando o quitando secciones según lo que quieras destacar en tu perfil. Si te interesa destacar aún más, puedes añadir gráficos, animaciones o widgets interactivos como tu calendario de commits. ¡Espero que te sirva!
-
 <!--
 **ShunTr-dev/ShunTr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
