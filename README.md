@@ -19,6 +19,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -29,6 +30,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=black&style=for-the-badge)
+![PayPal](https://img.shields.io/badge/-PayPal-003087?logo=paypal&logoColor=black&style=for-the-badge)
+![Redsys](https://img.shields.io/badge/-redsys-DC7C26?logo=redsys&logoColor=black&style=for-the-badge)
+
+![SendGrid](https://img.shields.io/badge/-SendGrid-51A9E3?logo=sendgrid&logoColor=black&style=for-the-badge)
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=black&style=for-the-badge)
+![DeepL](https://img.shields.io/badge/-DeepL-0F2B46?logo=deepl&logoColor=black&style=for-the-badge)
+
+![Atlas](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -57,3 +68,9 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ShunTr-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!--
+
+Comentar otras integraciones como Parity rate o roomcloud
+
+-->
