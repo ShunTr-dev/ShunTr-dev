@@ -13,7 +13,6 @@
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=white&style=for-the-badge)
-
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
