@@ -27,7 +27,7 @@ Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia 
 ### ⚙️ Lenguajes y Herramientas
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-PHP-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-PHP-3776AB?logo=php&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
