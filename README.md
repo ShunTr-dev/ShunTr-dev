@@ -44,9 +44,6 @@ Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia 
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ShunTr-dev&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="400">
-
-    
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunTr-dev&layout=compact&theme=radical" alt="Lenguajes más usados" width="400">
 </p>
 
