@@ -5,18 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ShunTr-dev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-martinez-developer/)
 
 
-### ⚙️ Lenguajes y Herramientas
 
-<p align="center">
-    <!--  RESTfull
-    Backend
-    GIt
-    MySQL
-    
-    Voyager
-    PostgreSQL
-    Bootstrap -->
-</p>
 
 
 ## 🌐 Socials:
