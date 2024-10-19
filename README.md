@@ -4,25 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40ShunTr-dev-black?style=flat-square&logo=github)](https://github.com/ShunTr-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ShunTr-dev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-martinez-developer/)
 
----
-
-### 🚀 Acerca de mí
-
-Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia de datos**. Siempre estoy buscando aprender algo nuevo y mejorar mis habilidades. Me gusta enfrentarme a problemas desafiantes y encontrar soluciones creativas.
-
-- 💻 **Stack Tecnológico**: Aquí menciono mis lenguajes y herramientas preferidos.
-    - Lenguajes: `JavaScript`, `PHP`
-    - Frameworks: `React`, `Node.js`, `Django`, `Flask`
-    - Bases de Datos: `MySQL`, `PostgreSQL`, `MongoDB`
-    - Otros: `Docker`, `Git`
-
-- 🌱 **Actualmente aprendiendo**: Siempre me mantengo aprendiendo algo nuevo, ya sea **inteligencia artificial**, **blockchain**, o alguna nueva tecnología emergente.
-  
-
-
-- 📫 **Contacto**: Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/pablo-martinez-developer/) o enviarme un correo a `shuntr.dev@gmail.com`.
-
----
 
 ### ⚙️ Lenguajes y Herramientas
 
@@ -35,43 +16,19 @@ Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia 
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-    
+    <img src="https://img.shields.io/badge/-CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
 
-    
-    
-    RESTfull
+
+    <!--  RESTfull
     Backend
     GIt
     MySQL
     
     Voyager
     PostgreSQL
-    Bootstrap
-
-
-    
-    <img src="https://img.shields.io/badge/-CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+    Bootstrap -->
 </p>
-
----
-[![ShunTr-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShunTr-dev)](https://github.com/ShunTr-dev/)
----
-### 📊 Mis estadísticas de GitHub
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShunTr-dev&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunTr-dev&layout=compact&theme=radical" alt="Lenguajes más usados" width="400">
-</p>
-
----
-
-
-
-
-
-
 
 
 ## 🌐 Socials:
