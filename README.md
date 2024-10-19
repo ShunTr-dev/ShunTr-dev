@@ -37,7 +37,7 @@ Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia 
 </p>
 
 ---
-[![ShunTr-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ShunTr-dev/)
+[![ShunTr-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShunTr-dev)](https://github.com/ShunTr-dev/)
 ---
 ### 📊 Mis estadísticas de GitHub
 
