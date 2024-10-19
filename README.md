@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy ShunTr
+# 👋 ¡Hola! Soy ShunTr 😃
 
 
 ## 🌐 Socials:
