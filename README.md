@@ -34,7 +34,10 @@
 ![PayPal](https://img.shields.io/badge/-PayPal-003087?logo=paypal&logoColor=black&style=for-the-badge)
 ![Redsys](https://img.shields.io/badge/-redsys-DC7C26?logo=redsys&logoColor=black&style=for-the-badge)
 
-![SendGrid](https://img.shields.io/badge/-SendGrid-51A9E3?logo=sendgrid&logoColor=black&style=for-the-badge)
+![Parity Rate](https://img.shields.io/badge/-rateparity-e35f0f?logo=rateparity&logoColor=white&style=for-the-badge)
+![RoomCloud](https://img.shields.io/badge/-RoomCloud-4285f4?logo=icloud&logoColor=black&style=for-the-badge)
+
+![SendGrid](https://img.shields.io/badge/SendGrid-51A9E3?logo=sendgrid&logoColor=black&style=for-the-badge)
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=black&style=for-the-badge)
 ![DeepL](https://img.shields.io/badge/-DeepL-0F2B46?logo=deepl&logoColor=black&style=for-the-badge)
@@ -68,9 +71,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ShunTr-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--
-
-Comentar otras integraciones como Parity rate o roomcloud
-
--->
