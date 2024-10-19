@@ -1,13 +1,6 @@
 # 👋 ¡Hola! Soy ShunTr
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40ShunTr-dev-black?style=flat-square&logo=github)](https://github.com/ShunTr-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ShunTr-dev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-martinez-developer/)
-
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-martinez-developer) 
 
