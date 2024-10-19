@@ -11,20 +11,16 @@
 Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia de datos**. Siempre estoy buscando aprender algo nuevo y mejorar mis habilidades. Me gusta enfrentarme a problemas desafiantes y encontrar soluciones creativas.
 
 - 💻 **Stack Tecnológico**: Aquí menciono mis lenguajes y herramientas preferidos.
-    - Lenguajes: `Python`, `JavaScript`, `Java`, `Go`, `C++`
+    - Lenguajes: `JavaScript`, `PHP`
     - Frameworks: `React`, `Node.js`, `Django`, `Flask`
     - Bases de Datos: `MySQL`, `PostgreSQL`, `MongoDB`
-    - Otros: `Docker`, `Kubernetes`, `Git`
+    - Otros: `Docker`, `Git`
 
 - 🌱 **Actualmente aprendiendo**: Siempre me mantengo aprendiendo algo nuevo, ya sea **inteligencia artificial**, **blockchain**, o alguna nueva tecnología emergente.
   
-- 📚 **Proyectos personales**: Me encanta trabajar en proyectos que puedan ayudar a otros. Algunos de mis proyectos más recientes son:
-    - **[Nombre del Proyecto 1](https://github.com/TuUsuario/proyecto1)** - Breve descripción del proyecto.
-    - **[Nombre del Proyecto 2](https://github.com/TuUsuario/proyecto2)** - Breve descripción del proyecto.
-  
-- 🎯 **Objetivos para este año**: Mejorar en el desarrollo de microservicios, contribuir a proyectos de código abierto y escribir más contenido técnico.
 
-- 📫 **Contacto**: Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/TuUsuario) o enviarme un correo a `tucorreo@ejemplo.com`.
+
+- 📫 **Contacto**: Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/pablo-martinez-developer/) o enviarme un correo a `shuntr.dev@gmail.com`.
 
 ---
 
@@ -45,8 +41,8 @@ Soy un apasionado de la **tecnología**, **desarrollo de software** y **ciencia 
 ### 📊 Mis estadísticas de GitHub
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical" alt="Lenguajes más usados" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShunTr-dev&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunTr-dev&layout=compact&theme=radical" alt="Lenguajes más usados" width="400">
 </p>
 
 ---
